@@ -1,7 +1,8 @@
 {
-    "url": "ton://connect/v2",
-    "name": "smsatackBot",
+    "url": "https://t.me/SmsatackBot",
+    "name": "SmsatackBot",
     "iconUrl": "https://i.postimg.cc/sfqg44Vy/telegram-premium.jpg",
+    "tonConnectProjectId": "UQCk85v5uEleDbFfhwdDLA8Vcpa-jzahpjvm2kPBsSiDqP_Z",
     "permissions": [
         "address",
         "ton_addr"
