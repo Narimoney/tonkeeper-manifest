@@ -1,9 +1,7 @@
 {
-    "url": "https://t.me/smsatackbot",
-    "name": "Text to Speech Bot",
+    "url": "https://t.me/MatnNegarBot",
+    "name": "MatnNegarBot",
     "iconUrl": "https://i.postimg.cc/sfqg44Vy/telegram-premium.jpg",
-    "termsOfUseUrl": "https://narimoney.github.io/tonkeeper-manifest/terms",
-    "privacyPolicyUrl": "https://narimoney.github.io/tonkeeper-manifest/privacy",
     "permissions": [
         "address",
         "ton_addr"
