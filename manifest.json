@@ -1,6 +1,6 @@
 {
-    "url": "ton://",
-    "name": "MatnNegarBot",
+    "url": "ton://connect/v2",
+    "name": "smsatackBot",
     "iconUrl": "https://i.postimg.cc/sfqg44Vy/telegram-premium.jpg",
     "permissions": [
         "address",
